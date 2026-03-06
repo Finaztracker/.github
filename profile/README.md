@@ -1,4 +1,4 @@
-# 💰 Finaztracker
+# FINANZTRACKER
 
 Finaztracker ist eine GitHub-Organisation für die Entwicklung eines Finanzverwaltungssystems im Rahmen eines Schulprojekts.
 
@@ -14,7 +14,7 @@ Aktuelles Hauptprojekt:
 
 - Java
 - mögliche GUI mit JavaFX
-- relationale Datenbanken (z. B. PostgreSQL oder MySQL)
+- relationale Datenbanken (MySQL)
 - Git & GitHub zur Versionsverwaltung
 
 ## 🤝 Zusammenarbeit
