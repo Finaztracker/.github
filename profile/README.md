@@ -14,7 +14,7 @@ Aktuelles Hauptprojekt:
 
 - Java
 - mögliche GUI mit JavaFX
-- relationale Datenbanken (MySQL)
+- relationale Datenbanken (MySQL) (Edit: Nicht mehr verpflichtend also nur noch falls Zeit bleibt)
 - Git & GitHub zur Versionsverwaltung
 
 ## 🤝 ZUSAMMENARBEIT ZWISCHEN UNS
